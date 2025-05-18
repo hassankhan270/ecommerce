@@ -24,7 +24,7 @@
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/hassankhan270/ecommerce.git
 ```
 
 2. Create a virtual environment:
